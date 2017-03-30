@@ -1,13 +1,6 @@
 ------
 Title: Year 8-week 1
 ================
-layout: post
-Author: shaveen.colambage
-permalink: /year-8-week-1/
-tags: - faq
-source-id: 1q0MPDCerx5FpMnJVGoSfE0tNtVtV2jbk5yVkN-g4UvQ
-published: true
-
 
 | Title 	| First Lesson of Year 8  |
 | --------  |---------                |
